@@ -1,0 +1,83 @@
+/* fonts */
+export const FontFamily = {
+  quicksandBold: "Quicksand_bold",
+  robotoBold: "Roboto_bold",
+  quicksandRegular: "Quicksand_regular",
+  quicksandLight: "Quicksand_light",
+  quicksandMedium: "Quicksand_medium",
+  quicksandSemibold: "Quicksand_semibold",
+  robotoRegular: "Roboto_regular",
+  nunitoBlack: "Nunito_black",
+  interRegular: "Inter_regular",
+  quicksand: "Quicksand",
+  fontsBoldHeading16B: "DM Sans_bold",
+  fontsSemiboldLabel13S: "DM Sans_medium",
+  nunitoSemibold: "Nunito_semibold",
+  nunitoSemiboldItalic: "Nunito_semibold_italic",
+  nunitoBold: "Nunito_bold",
+  fontsRegularCaption12: "DM Sans_regular",
+};
+/* font sizes */
+export const FontSize = {
+  size_sm: 14,
+  fontsBoldHeading16B_size: 16,
+  size_5xs: 8,
+  fontsRegularCaption12_size: 12,
+  size_3xs: 10,
+  size_4xs: 9,
+  size_6xs: 7,
+  size_2xs: 11,
+  size_lg: 18,
+  fontsBoldHeadingH220B_size: 20,
+  size_9xl: 28,
+  fontsSemiboldLabel13S_size: 13,
+  size_mini: 15,
+  size_5xl: 24,
+};
+/* Colors */
+export const Color = {
+  whitesmoke_100: "#f8f8f8",
+  whitesmoke_200: "#f6f6f6",
+  border: "#f1f1f1",
+  black: "#000",
+  dark: "#1f1f1f",
+  gray_100: "#14051e",
+  gray_200: "rgba(20, 5, 30, 0.5)",
+  gray_300: "rgba(0, 0, 0, 0.7)",
+  gray_400: "rgba(255, 255, 255, 0.49)",
+  gray_500: "rgba(255, 255, 255, 0.5)",
+  gray_600: "rgba(0, 0, 0, 0.5)",
+  white: "#fff",
+  blueviolet: "#9747ff",
+  lightgray: "#d6d6d6",
+  crimson_100: "#e93232",
+  crimson_200: "#d91b24",
+  gainsboro_100: "#d9d9d9",
+  gainsboro_200: "rgba(217, 217, 217, 0.3)",
+  brown: "#9d1720",
+  gray: "#747474",
+  secondaryGrey: "#9e9e9e",
+  firebrick: "#c01922",
+  plum: "#907db3",
+};
+/* Paddings */
+export const Padding = {
+  p_xl: 20,
+  p_8xs: 5,
+  p_3xs: 10,
+  p_11xl: 30,
+};
+/* border radiuses */
+export const Border = {
+  br_xl: 20,
+  br_3xs: 10,
+  br_11xl: 30,
+  br_mini: 15,
+  br_9xs: 4,
+  br_8xs: 5,
+  br_81xl: 100,
+  br_11xs_3: 1,
+  br_10xs_7: 3,
+  br_5xl: 24,
+  br_2xl_5: 22,
+};
